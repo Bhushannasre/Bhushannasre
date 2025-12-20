@@ -17,7 +17,7 @@
 <h1 align="center"> I'm Bhushan Nasre</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React, Redux, NodeJs**
+- 🌱 I’m currently learning TypeScript
 
 - 👨‍💻 MY portfolio Page [https://inspiring-cupcake-c32437.netlify.app/](https://inspiring-cupcake-c32437.netlify.app/)
 
