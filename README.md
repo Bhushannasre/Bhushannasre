@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding animation" />
   
   <h1>Hi 👋, I'm Bhushan Nasre</h1>
   <h3>Full-Stack Developer | MERN & PERN Stack | React.js | Next.js</h3>
